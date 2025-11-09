@@ -1,6 +1,6 @@
 # OASIS-INFOBYTE-PROJECTS-INTERNSHIP
-##Task-1 Landing Page
+## Task-1 Landing Page
 
-##Task-2 Portfolio
+## Task-2 Portfolio
 
-##Task-3 Temperature Converter Website
+## Task-3 Temperature Converter Website
